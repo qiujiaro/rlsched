@@ -1,0 +1,11 @@
+.DS_Store
+.venv/
+__pycache__/
+*.py[cod]
+
+# Large, externally sourced datasets
+data/train-ticket/
+data/zenodo/
+
+# Generated training and evaluation artifacts
+outputs/
