@@ -9,3 +9,6 @@ data/zenodo/
 
 # Generated training and evaluation artifacts
 outputs/
+
+# Project documentation
+docs/
